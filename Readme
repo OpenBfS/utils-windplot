@@ -1,0 +1,13 @@
+Was: das Python-Script, was die Windpfeil-Grafik erzeugt
+
+Benötigt: Datensatz als Datengrundlage (siehe Testdatensatz)
+
+aufgerufen wird das Script mit:
+
+python KFU_Windplot.py input.file output.file
+
+z.B.
+python KFU_Windplot.py kfue_wetter.txt KfUeWind.png
+
+benötigte Libs:
+python, python-matplotlib.x86_64
